@@ -12,7 +12,7 @@ vim-motion is a vim motion cheatsheet with tooltips.
 git clone https://github.com/dreadsd/vim-motion.git
 cd vim-motion
 ```
-Open the index.html file with [one of the following browsers](https://github.com/dreadsd/vim-motion/blob/main/README.md#support).
+Open the index.html file with [one of the following browsers](https://github.com/dreadsd/vim-motion#support).
 
 ## Usage
 Holding the cursor over any command will show its description as a tooltip.
