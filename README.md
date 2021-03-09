@@ -1,7 +1,7 @@
-# vim cheatsheet
+# vim-motion
 ***This is not intended to be responsive***
 
-vim-motion is a vim motion cheatsheet with tooltips.
+[vim-motion](https://dreadsd.github.io/vim-motion/) is a vim motion cheatsheet with tooltips.
 
 ## Screenshots
 ![overview](images/overview.png)
